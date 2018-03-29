@@ -1,0 +1,12 @@
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+div.relative {
+    position: absolute;
+    bottom: 0cm;
+    right: 0ch;
+    /*background-color: rgb(188, 181, 245);*/
+    width: 500px;
+}
